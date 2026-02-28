@@ -92,16 +92,9 @@
 
 ---
 
-##  Observações
-
-- Para publicar na web, use o `script.js`.
-
----
-
 ##  Autor
 
-- Feito por [iwillalwaysloveu](https://github.com/iwillalwaysloveu)
-- Aprimorado por [Charaktane](https://github.com/Charaktane)
+- Desenvolvido em colaboração por [iwillalwaysloveu](https://github.com/iwillalwaysloveu) e [Charaktane](https://github.com/Charaktane)
 
 ---
 
