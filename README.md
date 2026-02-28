@@ -94,7 +94,7 @@
 
 ##  Autor
 
-- Desenvolvido em colaboração por [iwillalwaysloveu](https://github.com/iwillalwaysloveu) e [Charaktane](https://github.com/Charaktane)
+- Desenvolvido em colaboração por [iwillalwaysloveu](https://github.com/iwillalwaysloveu) e [suyanneDomingos](https://github.com/suyanneDomingos)
 
 ---
 
