@@ -1,4 +1,4 @@
-# 🧩 Sudoku Game
+#  Sudoku Game
 
 > Desafie sua mente com este Sudoku interativo! Complete o tabuleiro preenchendo os números de 1 a 9 sem repetir em linhas, colunas ou blocos.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Interface moderna e responsiva (modo escuro/claro)
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🕹️ Como jogar
+##  Como jogar
 
 - **Não repita números:**  
   Cada linha, coluna e quadrado 3x3 deve conter todos os números de 1 a 9, sem repetições.
@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🗂️ Estrutura dos arquivos
+##  Estrutura dos arquivos
 
 - `index.html`: Estrutura do jogo
 - `styles.css`: Estilos visuais
@@ -92,20 +92,20 @@
 
 ---
 
-## 📝 Observações
+##  Observações
 
 - Para publicar na web, use o `script.js`.
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 - Feito por [iwillalwaysloveu](https://github.com/iwillalwaysloveu)
 - Aprimorado por [Charaktane](https://github.com/Charaktane)
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT.
 
